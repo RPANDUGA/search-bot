@@ -1,6 +1,6 @@
 # 🔍 Search Bot
 
-A full-featured search bot built in 30 minutes with GitHub and Wikipedia API integration, advanced filtering, sorting, and pagination.
+A full-featured search bot built with GitHub and Wikipedia API integration, advanced filtering, sorting, and pagination.
 
 ## Features
 
